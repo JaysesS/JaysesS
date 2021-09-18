@@ -11,3 +11,4 @@
 [![Deploy skeleton](https://github-readme-stats.vercel.app/api/pin/?username=JaysesS&repo=deploy_skeleton&show_icons=true&theme=gotham)](https://github.com/JaysesS/deploy_skeleton)
 [![My thesis](https://github-readme-stats.vercel.app/api/pin/?username=JaysesS&repo=thesis_project&show_icons=true&theme=gotham)](https://github.com/JaysesS/thesis_project)
 [![CTF Writeups](https://github-readme-stats.vercel.app/api/pin/?username=JaysesS&repo=ctf_writeups&show_icons=true&theme=gotham)](https://github.com/JaysesS/ctf_writeups)
+[![CTF Borda 4hsl33p](https://github-readme-stats.vercel.app/api/pin/?username=JaysesS&repo=4hsl33p_borda&show_icons=true&theme=gotham)](https://github.com/JaysesS/4hsl33p_borda)
