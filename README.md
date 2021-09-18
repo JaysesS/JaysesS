@@ -23,9 +23,11 @@
 
 # 
 <p align="center">
+    <img src="https://media.giphy.com/media/4k6FWka1FmZfG/giphy.gif">
     <a href="https://github.com/JaysesS">
         <img src="https://github-readme-stats.vercel.app/api?username=JaysesS&show_icons=true&theme=gotham">
     </a>
+    <img src="https://media.giphy.com/media/4k6FWka1FmZfG/giphy.gif">
 </p>
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JaysesS&show_icons=true&theme=gotham) -->
