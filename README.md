@@ -1,6 +1,6 @@
-# <h3 align="center"><i>Good cats write good code <img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif?cid=ecf05e47csb4o1l0b74cxr86dlli8f5t01y0j6p3ehshk776&rid=giphy.gif&ct=s" width="50"></i></h3>
+# <h3 align="center"><i>𝙶𝚘𝚘𝚍 𝚌𝚊𝚝𝚜 𝚠𝚛𝚒𝚝𝚎 𝚐𝚘𝚘𝚍 𝚌𝚘𝚍𝚎 <img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif?cid=ecf05e47csb4o1l0b74cxr86dlli8f5t01y0j6p3ehshk776&rid=giphy.gif&ct=s" width="50"></i></h3>
 
-# <h4 align="center">Skills</h4>
+# <h4 align="center">𝚂𝚔𝚒𝚕𝚕𝚜</h4>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Python-0c1014?style=for-the-badge&logo=python&logoColor=2aa889">
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/DOCKER-0c1014?style=for-the-badge&logo=docker&logoColor=2aa889">
 </p>
 
-<h4 align="center" >Contact</h4>
+<h4 align="center">𝙲𝚘𝚗𝚝𝚊𝚌𝚝</h4>
 <p align="center">
     <a href="https://t.me/JayseSs">
         <img src="https://img.shields.io/badge/Telegram-0c1014?style=for-the-badge&logo=telegram&logoColor=2aa889">
