@@ -7,6 +7,8 @@
 ![Profile views](https://gpvc.arturio.dev/JaysesS)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JaysesS&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaysesS&layout=compact&show_icons=true&theme=gotham)](https://github.com/JaysesS/thesis_project)
+
 
 [![Deploy skeleton](https://github-readme-stats.vercel.app/api/pin/?username=JaysesS&repo=deploy_skeleton&show_icons=true&theme=gotham)](https://github.com/JaysesS/deploy_skeleton)
 [![My thesis](https://github-readme-stats.vercel.app/api/pin/?username=JaysesS&repo=thesis_project&show_icons=true&theme=gotham)](https://github.com/JaysesS/thesis_project)
