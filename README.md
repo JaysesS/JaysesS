@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/DOCKER-0c1014?style=for-the-badge&logo=docker&logoColor=2aa889">
 </p>
 
-# <h4 align="center" >Contact</h4>
+<h4 align="center" >Contact</h4>
 <p align="center">
     <a href="https://t.me/JayseSs">
         <img src="https://img.shields.io/badge/Telegram-0c1014?style=for-the-badge&logo=telegram&logoColor=2aa889">
@@ -29,7 +29,6 @@
 </p>
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JaysesS&show_icons=true&theme=gotham) -->
-# 
 <p align="center">
     <a href="https://github.com/JaysesS/deploy_skeleton">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaysesS&repo=deploy_skeleton&show_icons=true&theme=gotham">
