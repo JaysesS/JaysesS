@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/NGINX-07405E?style=for-the-badge&logo=nginx&logoColor=white">
+    <img src="https://img.shields.io/badge/DOCKER-316192?style=for-the-badge&logo=docker&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
