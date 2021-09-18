@@ -1,4 +1,4 @@
-# <h3 align="center"><i>Good cats write good code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></i></h3>
+# <h3 align="center"><i>Good cats write good code <img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif?cid=ecf05e47csb4o1l0b74cxr86dlli8f5t01y0j6p3ehshk776&rid=giphy.gif&ct=s" width="50"></i></h3>
 
 # <h4 align="center">Skills</h4>
 
