@@ -1,4 +1,4 @@
-## *Hi* :blush:
+<h4><i>Good cats write good code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></i></h4>
 
 ## *Skills*: [<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />](https://www.python.org/) [<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/flask.svg"/>](https://flask.palletsprojects.com/en/1.1.x/) [<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" />](https://www.docker.com/) [<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nginx.svg" />](https://nginx.org/) [<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" />](https://www.mysql.com/)
 
