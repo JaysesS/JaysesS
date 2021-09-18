@@ -1,9 +1,11 @@
 <h4 align="center"><i>Good cats write good code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></i></h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><br>
+  <p>
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><br>
+  </p>
 </p>
 <!-- ## *Skills*: [<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />](https://www.python.org/) [<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/flask.svg"/>](https://flask.palletsprojects.com/en/1.1.x/) [<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" />](https://www.docker.com/) [<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nginx.svg" />](https://nginx.org/) [<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" />](https://www.mysql.com/) -->
 
