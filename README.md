@@ -20,28 +20,3 @@
         <img src="https://img.shields.io/badge/Telegram-0c1014?style=for-the-badge&logo=telegram&logoColor=2aa889">
     </a>
 </p>
-
-# 
-<p align="center">
-<!--     <img src="https://media.giphy.com/media/4k6FWka1FmZfG/giphy.gif"> -->
-    <a href="https://github.com/JaysesS">
-        <img src="https://github-readme-stats.vercel.app/api?username=JaysesS&show_icons=true&theme=gotham">
-    </a>
-<!--     <img src="https://media.giphy.com/media/4k6FWka1FmZfG/giphy.gif"> -->
-</p>
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JaysesS&show_icons=true&theme=gotham) -->
-<p align="center">
-    <a href="https://github.com/JaysesS/deploy_skeleton">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaysesS&repo=deploy_skeleton&show_icons=true&theme=gotham">
-    </a>
-    <a href="https://github.com/JaysesS/thesis_project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaysesS&repo=thesis_project&show_icons=true&theme=gotham">
-    </a>
-    <a href="https://github.com/JaysesS/ctf_writeups">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaysesS&repo=ctf_writeups&show_icons=true&theme=gotham">
-    </a>
-    <a href="https://github.com/JaysesS/4hsl33p_borda">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaysesS&repo=4hsl33p_borda&show_icons=true&theme=gotham">
-    </a>
- </p>
